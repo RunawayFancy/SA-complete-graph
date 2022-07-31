@@ -3,7 +3,6 @@ import numpy as np
 import pandas as pd
 import math 
 from random import choice
-import math
 import os.path
 from time import process_time
 import threading
